@@ -1,74 +1,37 @@
-<div align="center">
-
-# HARSHADA RAMESHKUMAR
-
-### Computer Science Engineering Student · Developer · Builder
-
-<p>
-  <a href="YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="YOUR_PORTFOLIO">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=googlechrome">
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
-  </a>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=120&section=header"/>
-
-</div>
-
----
-
-## 👩🏻‍💻 About Me
-
-I'm a **Computer Science Engineering student** interested in building
-practical software, automation systems and data-driven applications.
-
-- 🎓 CSE @ KIT Coimbatore
-- 💻 Interested in Software Development, Automation & Analytics
-- ⚡ Experience with n8n, Google Apps Script & Salesforce
-- 🏆 Hackathon participant
-- 🚀 Currently building and learning through real-world projects
-
----
-
-## ⚡ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,react,nodejs,mongodb,mysql,git,github,docker"/>
-
-</div>
-
----
-
 ## 🚀 Featured Projects
 
 <table>
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 💊 PharmiGenix
+### ♟️ N-Queens Preplaced Backtracking
 
-AI-assisted healthcare project focused on
-pharmaceutical data and intelligent analysis.
+Optimized N-Queens solver with pre-placed constraints using backtracking and O(1) conflict checking.
 
-**Tech:** Python · ML · XGBoost
+**Tech:** Python · Backtracking · Algorithms
+
+<br>
+
+<a href="https://github.com/harshadarameshkumar/n-queens-preplaced-backtracking">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🛡️ Safety Surveillance System
+### 📦 Shipping Management System
 
-Computer-vision based system designed
-for detecting safety-related anomalies.
+OOP-based shipping management system implemented in C++ using polymorphism, inheritance, and smart pointers.
 
-**Tech:** AI · ML · Computer Vision
+**Tech:** C++ · OOP · Smart Pointers
+
+<br>
+
+<a href="https://github.com/harshadarameshkumar/shipping-management-system-cpp">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 </td>
 
@@ -76,75 +39,71 @@ for detecting safety-related anomalies.
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### ⚙️ Campaign Automation
+### 🌳 Quiz Branching System
 
-Automated email campaign tracking and
-reporting using Google Apps Script.
+Dynamic binary-tree quiz system implemented in C using file parsing, pointers, and memory management.
 
-**Tech:** Apps Script · Gmail · Sheets
+**Tech:** C · Data Structures · File Handling
+
+<br>
+
+<a href="https://github.com/harshadarameshkumar/quiz-branching-system-c">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🌐 MERN Pharmacy System
+### 🎙️ Wake Word Detection
 
-Real-time pharmacy management application
-with database-driven workflows.
+TensorFlow-based wake-word detection system with MFCC preprocessing, model training, evaluation, and live audio inference.
 
-**Tech:** MongoDB · Express · React · Node
+**Tech:** Python · TensorFlow · Audio Processing · ML
+
+<br>
+
+<a href="https://github.com/harshadarameshkumar/wake-word-detection">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 </td>
 
 </tr>
-</table>
 
----
-
-## 🏆 Achievements
-
-<table>
 <tr>
-<td align="center">🏅</td>
-<td><b>Salesforce</b><br>90+ Badges · 4 Superbadges</td>
 
-<td align="center">💻</td>
-<td><b>Hackathons</b><br>Multiple hackathon participations</td>
+<td width="50%" valign="top">
+
+### 💳 ATM Transaction Simulator
+
+Java-based ATM transaction simulator using JDBC and MySQL for database-driven transaction management.
+
+**Tech:** Java · JDBC · MySQL
+
+<br>
+
+<a href="https://github.com/harshadarameshkumar/ATM-Transaction-Simulator-JDBC">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 💻 More Projects
+
+Explore my GitHub repositories for additional coursework, experiments, and projects.
+
+<br>
+
+<a href="https://github.com/harshadarameshkumar?tab=repositories">
+<img src="https://img.shields.io/badge/Explore%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
 </tr>
 </table>
-
----
-
-## 📊 GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&rank_icon=github"/>
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true"/>
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail">
-</a>
-
-</div>
-
-<div align="center">
-
-### Building. Learning. Shipping. 🚀
-
-</div>
